@@ -1,24 +1,13 @@
-import logo from './logo.svg';
+import {ChatEngine} from 'react-chat-engine';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ChatEngine
+    height="100vh"
+    projectID="dd4fd4cd-1c2f-4621-9181-f860599298bb"
+    userName="suchintandas"
+    userSecret="123"/>
   );
 }
 
