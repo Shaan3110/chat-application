@@ -1,5 +1,5 @@
 export const MyMessages=({message})=> {
-    if(message.attachements.length> 0 && message.attachements){
+    if(message.attachements && message.attachements.length > 0){
         return(
             <img src={message.attachements[0].file} alt="message loading" className="message-image" style={{ float:'right' }}/>
         )
