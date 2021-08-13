@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const OthersMessages=({lastMessage,message})=> {
     const isFirstMessageByUser = !lastMessage || lastMessage.sender.username!==message.sender.username
     return (
