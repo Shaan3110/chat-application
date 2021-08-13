@@ -1,7 +1,7 @@
 # Chat - Application 
 <br>
 <br>
-<img src="../public/image.png">
+<img src="../public/image.PNG">
 
 ### The project is made with the use of chat engine react api. You can login with the credentials 
 ### username- Michael
