@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <Switch>
-      <Route path="/chat-application/" component={Main}/>
+      <Route path="/chat-application" component={Main}/>
     </Switch>
     </>
   );
