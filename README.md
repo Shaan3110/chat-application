@@ -5,7 +5,7 @@
   <img src="public\image.PNG" alt="Image not loaded">
 </p>
 <br>
-## Points
+# Points
 <br>
 👉The project is made with the use of chat engine react api. You can login with the credentials 
 <br>
