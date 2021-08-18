@@ -5,7 +5,7 @@
   <img src="public\image.PNG" alt="Image not loaded">
 </p>
 <br>
-## Points
+Points
 <br>
 👉The project is made with the use of chat engine react api. You can login with the credentials 
 <br>
@@ -18,6 +18,8 @@ or
 👉username- Maxwell
 <br>
 👉password- 111
+<br>
+<br>
 <br>
 
 ➡️Currently the project is under development phase and one can't create any account on the website . But in the future versions, the feature would also be added so that people can create an account and chat with their friends through the website. 
